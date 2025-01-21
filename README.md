@@ -26,7 +26,7 @@ npm (v6 or later) or yarn
 Installation
 
 Clone the repository:
-git clone https://github.com/your-username/propsoch-frontend.git  
+git clone https://github.com/Pratham9798/propsoch-frontend.git  
 cd propsoch-frontend  
 
 Install dependencies:
